@@ -1,5 +1,4 @@
 import os
-import vertexai
 from flask import Flask, render_template, request, jsonify
 from datetime import datetime, timedelta
 import pytz
